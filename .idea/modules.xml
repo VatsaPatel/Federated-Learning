@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/com.mccorby.model.iml" filepath="$PROJECT_DIR$/.idea/modules/model/com.mccorby.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/com.mccorby.model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/model/com.mccorby.model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/com.mccorby.model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/model/com.mccorby.model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mccorby.parameterserver.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mccorby.parameterserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/parameterserver.server.iml" filepath="$PROJECT_DIR$/.idea/modules/server/parameterserver.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/parameterserver.server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/server/parameterserver.server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/parameterserver.server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/server/parameterserver.server.test.iml" />
+    </modules>
+  </component>
+</project>
